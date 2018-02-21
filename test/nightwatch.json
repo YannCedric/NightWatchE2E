@@ -5,12 +5,12 @@
   "test_settings": {
     "default": {
       "screenshots": {
-        "enabled": true,
+        "enabled": false,
         "on_failure": true,
         "path": "screenshots"
       },
       "videos": {
-        "enabled": true,
+        "enabled": false,
         "delete_on_success": false,
         "path": "videos"
       },

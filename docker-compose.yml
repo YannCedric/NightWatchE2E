@@ -1,7 +1,7 @@
 version: '2.2'
 services:
   nginx:
-    image: nginx:alpine
+    image: nginx:perl
     volumes:
       - ./app:/usr/share/nginx/html
   chromedriver:
